@@ -17,7 +17,7 @@
 #define ADJUST 3
 
 &led_strip {
-    chain-length = <29>; // Sofle Using All LEDs
+    chain-length = <36>; // Sofle Using All LEDs
 };
 
 / {
